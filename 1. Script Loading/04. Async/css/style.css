@@ -1,0 +1,27 @@
+﻿body {
+    height: 100%;
+}
+
+.image-container {
+    width:  400px;
+    height: 400px;
+    margin: auto;
+}
+
+div.row img:first-child {
+    float: left;
+}
+
+div.row img:last-child {
+    float: right;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    font-size: 40px;
+}
+
+p {
+    text-align: center;
+}
